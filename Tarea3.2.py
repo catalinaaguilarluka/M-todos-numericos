@@ -21,3 +21,7 @@ rojos = {e for e in muestra if todos_rojos(e)}
 probabilidad = prob(rojos, muestra)
 
 print(probabilidad)
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen la construcción de la urna y el funcionamiento de las funciones auxiliares.
