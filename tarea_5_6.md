@@ -68,3 +68,7 @@ $$
 $$
 
 Esto nos muestra que la cantidad de operaciones explota rapidísimo a medida que la matriz crece. Por esta razón, el método de los cofactores es totalmente inviable para matrices grandes en la vida real, en los que se prefieren caminos mucho más eficientes como la factorización LU, cuyo costo es de orden $O(n^3)$.
+
+Nota: 7.0
+Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+
