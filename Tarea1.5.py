@@ -14,3 +14,7 @@ while error >= 0.01:
 print("Valor aproximado de e:", e_aprox)
 print("Error obtenido:", error)
 print("Número de términos usados (n):", n)
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen la suma de términos y la actualización del error dentro del ciclo.
