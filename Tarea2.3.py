@@ -56,3 +56,7 @@ print("""
    diferencia mínima de 0.00000004 es solo el error propio de aproximar 
    una curva usando rectángulos (Suma de Riemann).
 """)
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 3/4; comentarios: 1/1; claridad: 1/1.
+# La explicación afirma un resultado nulo que el código no produce y confunde la singularidad de las integrales con una división por cero que la malla evita.
