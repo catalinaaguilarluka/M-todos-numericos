@@ -98,3 +98,7 @@ plt.show()
 # Al pedir una precisión mayor, el tiempo de cálculo puede aumentar.
 # Con el gráfico podemos comparar cuál de los dos métodos tarda
 # menos en resolver esta integral.
+
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
