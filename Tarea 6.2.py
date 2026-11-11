@@ -148,3 +148,6 @@ plt.show()
 # Finalmente, ambos metodos sirven para encontrar raices,
 # aunque cada uno tiene sus ventajas y puede funcionar
 # mejor dependiendo del problema.
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
