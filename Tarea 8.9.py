@@ -49,3 +49,7 @@ print(f"Altura maxima en t = {t_max:.1f} segundos")
 # Despues de ese momento, la velocidad pasa a ser negativa,
 # lo que indica que el proyectil comienza a caer.
 
+
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
