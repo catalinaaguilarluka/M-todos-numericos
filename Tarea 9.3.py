@@ -112,3 +112,6 @@ plt.show()
 # Sin embargo, tambien es posible utilizar la solucion
 # de orden 5, aprovechando su mayor precision sin realizar
 # evaluaciones adicionales de la funcion.
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
